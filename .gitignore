@@ -29,3 +29,8 @@ env/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# =========================
+# Personal Additions
+# =========================
+*.pdf
